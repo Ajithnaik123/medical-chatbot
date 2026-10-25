@@ -1,0 +1,6 @@
+{
+  "name": "MediCare AI — Intelligent Health & Medical Guidance",
+  "description": "An AI-powered medical information chatbot providing age-adapted health guidance, safe home-care suggestions, general medicine information, and emergency warning detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
